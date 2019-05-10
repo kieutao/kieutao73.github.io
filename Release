@@ -1,0 +1,21 @@
+Origin: kdk67
+
+Label: PVM
+
+Suite: kdk67
+
+Version: 1.0
+
+Codename: kdk67
+
+Architectures: iphoneos-arm
+
+Components: main
+
+Description: 67 hỗ trợ anh em cộng đồng lead offer ios
+
+MD5sum:
+
+3cbff4ceea4786325587aa2e55bb50fa 4176 Packages
+
+28614d2737a92ae4806df712cacf1aaa 1442 Packages.bz2
